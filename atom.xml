@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   <subtitle>欢迎来到我的博客</subtitle>
-  <link href="https://github.com/star2-lab/duanh.github.io/atom.xml" rel="self"/>
+  <link href="https://star2-lab/duanh.github.io/project/atom.xml" rel="self"/>
   
-  <link href="https://github.com/star2-lab/duanh.github.io/"/>
+  <link href="https://star2-lab/duanh.github.io/project/"/>
   <updated>2021-04-27T08:56:43.041Z</updated>
-  <id>https://github.com/star2-lab/duanh.github.io/</id>
+  <id>https://star2-lab/duanh.github.io/project/</id>
   
   <author>
     <name>Duan Hongfei</name>
@@ -18,27 +18,27 @@
   
   <entry>
     <title>test2</title>
-    <link href="https://github.com/star2-lab/duanh.github.io/2021/04/26/test2/"/>
-    <id>https://github.com/star2-lab/duanh.github.io/2021/04/26/test2/</id>
+    <link href="https://star2-lab/duanh.github.io/project/2021/04/26/test2/"/>
+    <id>https://star2-lab/duanh.github.io/project/2021/04/26/test2/</id>
     <published>2021-04-26T14:19:42.000Z</published>
     <updated>2021-04-27T08:56:43.041Z</updated>
     
     
     
     
-    <category term="Markdown" scheme="https://github.com/star2-lab/duanh.github.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://star2-lab/duanh.github.io/project/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="https://github.com/star2-lab/duanh.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://star2-lab/duanh.github.io/project/tags/Typora/"/>
     
-    <category term="Markdown" scheme="https://github.com/star2-lab/duanh.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://star2-lab/duanh.github.io/project/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="https://github.com/star2-lab/duanh.github.io/2021/04/26/test/"/>
-    <id>https://github.com/star2-lab/duanh.github.io/2021/04/26/test/</id>
+    <link href="https://star2-lab/duanh.github.io/project/2021/04/26/test/"/>
+    <id>https://star2-lab/duanh.github.io/project/2021/04/26/test/</id>
     <published>2021-04-26T13:50:55.000Z</published>
     <updated>2021-04-27T08:56:41.087Z</updated>
     
@@ -52,19 +52,19 @@
     
     
     
-    <category term="Markdown" scheme="https://github.com/star2-lab/duanh.github.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://star2-lab/duanh.github.io/project/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="https://github.com/star2-lab/duanh.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://star2-lab/duanh.github.io/project/tags/Typora/"/>
     
-    <category term="Markdown" scheme="https://github.com/star2-lab/duanh.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://star2-lab/duanh.github.io/project/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>article title</title>
-    <link href="https://github.com/star2-lab/duanh.github.io/2021/04/26/article-title/"/>
-    <id>https://github.com/star2-lab/duanh.github.io/2021/04/26/article-title/</id>
+    <link href="https://star2-lab/duanh.github.io/project/2021/04/26/article-title/"/>
+    <id>https://star2-lab/duanh.github.io/project/2021/04/26/article-title/</id>
     <published>2021-04-26T07:15:21.000Z</published>
     <updated>2021-04-27T08:55:39.889Z</updated>
     
@@ -78,19 +78,19 @@
     
     
     
-    <category term="Markdown" scheme="https://github.com/star2-lab/duanh.github.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://star2-lab/duanh.github.io/project/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="https://github.com/star2-lab/duanh.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://star2-lab/duanh.github.io/project/tags/Typora/"/>
     
-    <category term="Markdown" scheme="https://github.com/star2-lab/duanh.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://star2-lab/duanh.github.io/project/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/star2-lab/duanh.github.io/2021/04/26/hello-world/"/>
-    <id>https://github.com/star2-lab/duanh.github.io/2021/04/26/hello-world/</id>
+    <link href="https://star2-lab/duanh.github.io/project/2021/04/26/hello-world/"/>
+    <id>https://star2-lab/duanh.github.io/project/2021/04/26/hello-world/</id>
     <published>2021-04-26T07:10:21.000Z</published>
     <updated>2021-04-27T09:10:46.698Z</updated>
     
@@ -104,12 +104,12 @@
     
     
     
-    <category term="Markdown" scheme="https://github.com/star2-lab/duanh.github.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://star2-lab/duanh.github.io/project/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="https://github.com/star2-lab/duanh.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://star2-lab/duanh.github.io/project/tags/Typora/"/>
     
-    <category term="Markdown" scheme="https://github.com/star2-lab/duanh.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://star2-lab/duanh.github.io/project/tags/Markdown/"/>
     
   </entry>
   
